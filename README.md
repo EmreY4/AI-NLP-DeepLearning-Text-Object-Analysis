@@ -156,7 +156,7 @@ keras, tensorflow: For deep learning-based image classification and object recog
 - The following packages should be installed:
 
     ```r
-install.packages(c("tidytext", "dplyr", "tidyr", "ggplot2", "spacyr", "tm", "topicmodels", "imager", "jpeg", "keras", "tensorflow"))
+    install.packages(c("tidytext", "dplyr", "tidyr", "ggplot2", "spacyr", "tm", "topicmodels", "imager", "jpeg", "keras", "tensorflow"))
     ```
 
 ## 🤝 Contributing
